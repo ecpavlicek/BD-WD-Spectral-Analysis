@@ -41,9 +41,9 @@ This research was conducted as part of the VICO–CASSUM Summer Program and supp
 
 ### Contact Information
 For further information or if you have any questions, please reach out:
-Emma Pavlicek
-University of Chicago
-Email: ecpavlicek@uchicago.edu
+  Emma Pavlicek
+  University of Chicago
+  Email: ecpavlicek@uchicago.edu
 
 ### Note on Scope
 This research was conducted over a 7-month period. While the methods used are robust, they represent a specific stage of analysis and may be subject to further refinement or more in-depth exploration in future work.
